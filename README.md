@@ -69,9 +69,7 @@ Linear regression
 
 ![BitcoinGenie_UI](Images/bitcoingenie_UI.png)
 
-**How it was created?**
-
-Using the tknter package
+User interface was created with tknter package.
 
 **How to use?**
 Just click the blue button that says "Ask ME!" and wait a few seconds for Bitcoin Genie's recommendation based on the most recent Twitter sentiment  and BTC price analyses. 
@@ -88,7 +86,7 @@ Just click the blue button that says "Ask ME!" and wait a few seconds for Bitcoi
 4. Improve aesthetic of user interface.
 
 ---
-## GENERAL REFERENCES
+## GENERAL & CODE REFERENCES
 
 - https://github.com/Roibal/Cryptocurrency-Trading-Bots-Python-Beginner-Advance
 
@@ -97,5 +95,9 @@ Just click the blue button that says "Ask ME!" and wait a few seconds for Bitcoi
 
 
 - https://medium.com/@BlockchainEng/crypto-trading-bot-sentiment-analysis-bot-bfbd8dd1df5a
+
+- Code Ref:https://github.com/Roibal/Cryptocurrency-Trading-Bots-Python-Beginner-Advance/blob/master/Crypto-Trading-Bots/Crypto_Sentiment_Analysis_SocialMedia_Bot.py
+
+
 
 
